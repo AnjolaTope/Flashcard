@@ -7,7 +7,7 @@
 This app will display the answer of the card when it is clicked
 
 ### App Walk-though
-<a href="https://imgflip.com/gif/3pyduz"><img src="https://i.imgflip.com/3pyduz.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/3pydvr"><img src="https://i.imgflip.com/3pydvr.gif" title="made at imgflip.com"/></a>
 
 ## Required
 - [x] Create New Project in Android Studio
